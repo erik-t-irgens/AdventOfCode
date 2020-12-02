@@ -72,5 +72,5 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 Erik Irgens - erik.t.irgens@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/erik-t-irgens/AdventOfCode](https://github.com/erik-t-irgens/AdventOfCode)
 
