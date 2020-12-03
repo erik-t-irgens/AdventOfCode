@@ -13,7 +13,7 @@ const findProductFromSumOfN = (input, n) => {
         for (let j = i + 1; j < input.length; j++) {
             if (input[i] + input[j] === n) {
                 result = input[i] * input[j]
-                console.log(input[i] + ' ' + input[j] + ' have the sum of ' + n + ' and have the product of ' + result)
+                console.log(input[i] + ' and ' + input[j] + ' have the sum of ' + n + ' and have the product of ' + result)
                 return result
             }
         }
