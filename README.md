@@ -57,8 +57,9 @@ Here's why:
 ## Roadmap
 
 * Day 1 - Complete
-* Day 2 - Work In Progress
-* Day 3 -
+* Day 2 - Complete
+* Day 3 - Complete
+* Day 4 -
 
 <!-- LICENSE -->
 ## License
