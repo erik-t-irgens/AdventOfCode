@@ -1,4 +1,4 @@
-import input from './input';
+import { input } from './input';
 
 const findProductFromSumOfN = (input, n) => {
     if (input.length < 2 || !input || !n) {
