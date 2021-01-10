@@ -22,6 +22,8 @@ function verifyPassports(err, data) {
   var requiredParams = ["hcl", "pid", "iyr", "eyr", "ecl", "hgt", "byr"]
   var passports = data.split('\n\n');
 
+  console.log(passports.length)
+
   for (let i = 0; i < passports.length; i++) {
     let counter = 0
     passports[i] = passports[i].replace(/\s/g, ',');
